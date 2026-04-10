@@ -10,7 +10,7 @@
 
 ---
 
-> **Note:** This is **Part 2** of a comprehensive cloud SRE engineering project.  
+> **Note:** This is **Part 2** of a three-part cloud SRE engineering project.
 > While Part 1 focused on provisioning a highly available AWS architecture, this phase focuses on **instrumenting that system with production-grade observability and alerting**.
 
 ---
