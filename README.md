@@ -122,4 +122,4 @@ Designed for **rapid 3:00 AM incident triage**.
 
 ---
 
-<a href="https://github.com/georgecyberli/FCM790-SRE-Project1.git" class="button icon back">Back to Part 1</a>
+[![⬅️ Back to Part 1](https://img.shields.io/badge/Back%20to-Part%201-blue)](https://github.com/georgecyberli/FCM790-SRE-Project1.git)
